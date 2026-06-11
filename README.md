@@ -1,8 +1,8 @@
-# Paper Courier Theme
+# Paper Source Theme
 
 A standalone Obsidian theme with a light mint typewriter look and distinct organic green/orange accents.
 
-Inspired by paper typewriter aesthetics and Courier typography.
+Inspired by paper typewriter aesthetics and Source Code Pro typography.
 
 ## Features
 
@@ -15,4 +15,4 @@ Inspired by paper typewriter aesthetics and Courier typography.
 ## Installation
 
 1. Copy this folder into your vault's `.obsidian/themes/` directory.
-2. Select **Paper Courier** in Settings -> Appearance -> Theme.
+2. Select **Paper Source** in Settings -> Appearance -> Theme.
