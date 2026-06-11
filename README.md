@@ -4,7 +4,7 @@ A standalone Obsidian theme with a light mint typewriter look and distinct organ
 
 Inspired by paper typewriter aesthetics and Source Code Pro typography.
 
-![Screenshot](screenshot.png)
+![Screenshot](PaperSourceDark.png)
 
 ## Features
 
